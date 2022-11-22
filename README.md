@@ -6,7 +6,7 @@ Simply click on the button on the top righ to see the animation.
 
 # Future Improvements
 1. Able to retrieve data remotely.
-2. To include multiple route.
+2. To include multiple routes.
 
 # License
 https://github.com/CheinWong/real-time-bus-tracker/blob/main/LICENSE
